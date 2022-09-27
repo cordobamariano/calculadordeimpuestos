@@ -1,0 +1,29 @@
+body {
+	margin: 0;
+	padding: 2rem;
+	height: 95vh;
+	background-image: url("../img/download.jpg");
+	background-size: 100% 100%;
+	background-repeat: no-repeat;
+}
+
+.contenedor {
+	background-color: white;
+	opacity: 0.9;
+	border-radius: 20px;
+	padding: 5px;
+	width: 50%;
+}
+input {
+	width: 22%;
+	height: 20px;
+	border-radius: 10px;
+	border-color: black;
+	margin-bottom: 20px;
+}
+button {
+	background-color: green;
+	width: 22%;
+	height: 30px;
+	border-radius: 10px;
+}
